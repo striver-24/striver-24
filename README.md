@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Open Source projects related to AI and Web Development 
+- 🤔 I’m looking for help with Scheduling my day
+- 📫 How to reach me: You can mail me at deivyanshs@gmail.com
+- ⚡ Fun fact: I can solve a rubiks cube in 11 secs.
+
 <!--
 **striver-24/striver-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
