@@ -1,5 +1,5 @@
 ## 💫 About Me:
--🫡 Computer Science Senior at [Manipal University Jaipur](https://jaipur.manipal.edu/)<br>- 🔭 I’m currently working on MERN Stack<br>- 🌱 I’m currently learning Web Development<br>- 👯 I’m looking to collaborate on Open Source projects related to AI and Web Development <br>- 🤔 I’m looking for help with Scheduling my day<br>- 📫 How to reach me: You can connect me through [Mail](mailto:deivyanshs@gmail.com) or [LinkedIn](https://www.linkedin.com/in/deivyansh-singh/)<br>- ⚡ Fun fact: I can solve a rubiks cube in 11 secs.
+-🫡 Computer Science Senior at [Manipal University Jaipur](https://jaipur.manipal.edu/)<br>- 🔭 I’m currently working on MERN Stack<br>- 🌱 I’m presently learning Development<br>- 👯 I’m looking to collaborate on Open Source projects related to ML, AI and Web Development <br>- 🤔 I’m looking for help with Web Development<br>- 📫 How to reach me: You can connect me through [Mail](mailto:deivyanshs@gmail.com) or [LinkedIn](https://www.linkedin.com/in/deivyansh-singh/)<br>- ⚡ Fun fact: I can solve a rubiks cube in 11 secs.
 
 
 ## 👾 Socials:
