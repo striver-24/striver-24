@@ -38,17 +38,28 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- [**Project Name 1**](https://github.com/striver-24/project1): Brief description of the project, technologies used, and its purpose.
-- [**Project Name 2**](https://github.com/striver-24/project2): Brief description of the project, technologies used, and its purpose.
-- [**Project Name 3**](https://github.com/striver-24/project3): Brief description of the project, technologies used, and its purpose.
+### 📂 [Intern Management System](https://github.com/striver-24/Intern-Management-System)
+A task management platform built with the **MERN Stack**.
+- Interactive dashboards for interns and managers
+- Role-based access control
+- Built as part of a digitalization initiative for **Indian Oil Corporation Limited**
 
-*For a comprehensive list of my projects, visit the [Repositories](https://github.com/striver-24?tab=repositories) section.*
+### ❤️ [Heart Disease Classifier](https://github.com/striver-24/Heart-Disease-Classifier-)
+A machine learning model that predicts the likelihood of heart disease.
+- Utilizes real-world healthcare datasets
+- Implemented using **Keras**, **Scikit-learn**, and **Pandas**
+- Includes detailed data analysis in Jupyter Notebook
+
+### 🌐 [Personal Portfolio](https://github.com/striver-24/Portfolio)
+A modern, responsive portfolio site built with HTML, CSS, and JavaScript.
+- Showcases projects and contact details
+- Deployed on [Vercel](https://deivyanshsingh.vercel.app/)
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 - 🌐 [Portfolio](https://deivyanshsingh.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh)
@@ -56,4 +67,5 @@
 
 ---
 
-*“Striving for excellence in every line of code.”*
+_“Striving for excellence in every line of code.”_
+
