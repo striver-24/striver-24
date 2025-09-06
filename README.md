@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Projects
 
-### 📂 [MedAppointment.io]([https://github.com/striver-24/medical-appointment-agent])
+### ⚕️ [MedAppointment.io](https://github.com/striver-24/medical-appointment-agent)
 This project is a medical appointment management agent designed to streamline scheduling, insurance verification, and patient intake processes for healthcare providers using the power of **LLM Model, Langchain, and Langgraph.**
 It has following **Features**:
 - Patient intake form processing
@@ -49,7 +49,7 @@ It has following **Features**:
 - Administrative reporting
 - Reminding about the appointment through messaging (**twilio**) and email.
 
-### 📂 [StackResume.ai]([https://github.com/striver-24/ai-resume-analyzer])
+### 👀 [StackResume.ai](https://github.com/striver-24/ai-resume-analyzer)
 An AI-powered resume analyzer that helps you optimize your resume for Applicant Tracking Systems (ATS) and real-world job descriptions. 
 - Upload your resume (PDF), get instant feedback, actionable tips, and track your history 
 — **all powered by Puter.js storage and AI services.**
