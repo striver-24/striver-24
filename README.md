@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Deivyansh Singh
 
 🎓 **B.Tech in Data Science** | 💻 **Full-Stack Developer (MERN Stack)**  
-📍 India | 🌐 [Portfolio](https://deivyanshsingh.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh)
+📍 India | 🌐 [Portfolio](https://deivyansh.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh)
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Final-year B.Tech student specializing in **Data Science** at Manipal University Jaipur.
+- 🎓 B.Tech student specializing in **Data Science & AI/ML** at Manipal University Jaipur.
 - 💻 Passionate about building scalable web applications using the **MERN Stack**.
-- 🤖 Enthusiast in **Machine Learning** and **Artificial Intelligence**.
+- 🤖 Enthusiast in **Machine Learning**, **Generative AI** and **AI Agents**.
 - 🌱 Currently exploring **Open Source** contributions and collaborative projects.
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/deivyansh-singh) or [Instagram](https://www.instagram.com/singhdeivyansh).
+- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/deivyansh-singh) or [Instagram](https://www.instagram.com/singhdeivyansh) or [Say Hi! on Portfolio Website](https://deivyansh.vercel.app/).
 
 ---
 
@@ -40,6 +40,20 @@
 
 ## 🚀 Featured Projects
 
+### 📂 [MedAppointment.io]([https://github.com/striver-24/medical-appointment-agent])
+This project is a medical appointment management agent designed to streamline scheduling, insurance verification, and patient intake processes for healthcare providers using the power of **LLM Model, Langchain, and Langgraph.**
+It has following **Features**:
+- Patient intake form processing
+- Insurance verification
+- Appointment scheduling
+- Administrative reporting
+- Reminding about the appointment through messaging (**twilio**) and email.
+
+### 📂 [StackResume.ai]([https://github.com/striver-24/ai-resume-analyzer])
+An AI-powered resume analyzer that helps you optimize your resume for Applicant Tracking Systems (ATS) and real-world job descriptions. 
+- Upload your resume (PDF), get instant feedback, actionable tips, and track your history 
+— **all powered by Puter.js storage and AI services.**
+
 ### 📂 [Intern Management System](https://github.com/striver-24/Intern-Management-System)
 A task management platform built with the **MERN Stack**.
 - Interactive dashboards for interns and managers
@@ -52,16 +66,16 @@ A machine learning model that predicts the likelihood of heart disease.
 - Implemented using **Keras**, **Scikit-learn**, and **Pandas**
 - Includes detailed data analysis in Jupyter Notebook
 
-### 🌐 [Personal Portfolio](https://github.com/striver-24/Portfolio)
-A modern, responsive portfolio site built with HTML, CSS, and JavaScript.
+### 🌐 [Personal Portfolio](https://github.com/striver-24/deivyansh-portfolio-2k25)
+A modern, responsive portfolio site built with This project is built with Vite, TypeScript, React, shadcn-ui, & Tailwind CSS.
 - Showcases projects and contact details
-- Deployed on [Vercel](https://deivyanshsingh.vercel.app/)
+- Deployed on [Vercel](https://deivyansh.vercel.app/)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 🌐 [Portfolio](https://deivyanshsingh.vercel.app/)
+- 🌐 [Portfolio](https://deivyansh.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh)
 - 📸 [Instagram](https://www.instagram.com/singhdeivyansh)
 
