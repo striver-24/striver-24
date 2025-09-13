@@ -119,7 +119,5 @@ A modern, responsive portfolio site built with This project is built with Vite, 
 ---
 
 _“Striving for excellence in every line of code.”_
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+© Deivyansh Singh, 2025
