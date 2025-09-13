@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Deivyansh Singh
 
 💼 Full Stack Intern @CareerSimplified | 🧑‍💻 BTech Data Science | 🧬 Open Source Contributor | 🤖 Agentic AI | 🫆 SAAS | 🕸️ Web Development 
+
 📍 India | 🌐 [Portfolio](https://deivyansh.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh) | 📸 [Instagram](https://instagram.com/singhdeivyansh) | 📝 [Medium](https://medium.com/@deivyanshs) | ⓧ [X](https://x.com/singhdeivyansh) | 📩 [email](mailto:work.deivyansh@gmail.com) 
 
 ---
