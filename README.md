@@ -92,7 +92,7 @@ A modern, responsive portfolio site built with This project is built with Vite, 
 
 ---
 
-## Upcoming/Ongoing Projects
+## 🕚 Upcoming/Ongoing Projects
 - **Pixelate:** Pixelate is an AI-powered SaaS tool that transforms your hand-drawn sketches into clean, production-ready code. Designed for developers and designers alike, Pixelate integrates directly with your GitHub workflow, turning your ideas into a codebase effortlessly.
 - **Momentum:** . The agent, referred to as the "Flow-State Agent," is designed to translate high-level business requirements from a Jira ticket into a fully tested, reviewed, and production-ready pull request in GitHub.
 
