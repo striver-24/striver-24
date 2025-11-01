@@ -53,7 +53,7 @@
 ---
 
 ## 🚀 Featured Projects
-###  [Momentum](https://github.com/striver-24/Momentum) ###ComingSoon...
+###  [Momentum](https://github.com/striver-24/Momentum)
 This "Flow-State" Engineering Agent is an autonomous system designed to radically accelerate software development by automating the entire inner development loop. It accepts high-level business requirements or feature requests in natural language and outputs fully tested, documented, and production-ready code in the form of a pull request.
 
 ### 😊 [MindSpace](https://github.com/striver-24/GenAI-Hackathon)
