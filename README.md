@@ -1,17 +1,17 @@
 <img src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://github.com/striver-24/striver-24/blob/main/Aesthetic%20Twitter%20Header.png)" width="900">  
 <img src="./Aesthetic Twitter Header.png" alt="Developer GIF" width="1000"/>
 
-## 💼 Full Stack Intern @CareerSimplified | 🧑‍💻 BTech Data Science 
-## 🧬 Open Source Contributor | 🤖 Agentic AI | 🫆 SAAS | 🕸️ Web Development 
+## 💼 Currently Looking for Job | 🧑‍💻 BTech Data Science and Engineering
+## 🧬 Machine Learning | 🤖 Agentic AI | 🫆 SAAS 
 
 📍 India | 🌐 [Portfolio](https://deivyansh.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh) | 📸 [Instagram](https://instagram.com/singhdeivyansh) | 📝 [Medium](https://medium.com/@deivyanshs) | ⓧ [X](https://x.com/singhdeivyansh) | 📩 [email](mailto:work.deivyansh@gmail.com) 
 
 ---
 
 ## 🧠 About Me
-- 👋 I'm a Full Stack Intern at ***CareerSimplified***
+- 👋 I'm Ex Intern @CareerSimplified, @PanaceaInfosec and @IOCL.
 - B.Tech student passionate about Data Science from ***MIT Jaipur*** 🧑‍💻
-- My expertise lies in building dynamic web applications with the MERN Stack 🕸️
+- My expertise lies in building ML and DL Models 🕸️
 - I'm a big enthusiast for Agentic AI 🤖 and Generative AI
 - I love contributing to Open Source 🧬 and building collaborative projects.
 - Currently, I'm focused on creating scalable SaaS solutions 🫆 and exploring how AI can streamline everyday tasks.
@@ -19,10 +19,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack I Work With
 
 ### Languages: 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 ### Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
@@ -96,8 +96,7 @@ A modern, responsive portfolio site built with This project is built with Vite, 
 ---
 
 ## 🕚 Upcoming/Ongoing Projects
-- **Pixelate:** Pixelate is an AI-powered SaaS tool that transforms your hand-drawn sketches into clean, production-ready code. Designed for developers and designers alike, Pixelate integrates directly with your GitHub workflow, turning your ideas into a codebase effortlessly.
-- **Momentum:** . The agent, referred to as the "Flow-State Agent," is designed to translate high-level business requirements from a Jira ticket into a fully tested, reviewed, and production-ready pull request in GitHub.
+**Many projects in ML and DL**
 
 ## 🤝 Let's Connect
 
@@ -109,4 +108,4 @@ A modern, responsive portfolio site built with This project is built with Vite, 
 
 _“Striving for excellence in every line of code.”_
 
-© Deivyansh Singh, 2025
+© Deivyansh Singh, 2026
