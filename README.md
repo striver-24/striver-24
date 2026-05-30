@@ -54,15 +54,11 @@ I am a Data Science enthusiast specializing in **Agentic AI** and **LLM Orchestr
 
 ---
 
-## 📊 Performance & Impact
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=striver-24&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=striver-24&theme=tokyonight&layout=compact&hide_border=true" height="170" />
-</div>
+## 📊 Upcoming Projects
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=striver-24&theme=onedark&no-frame=true&margin-w=4" />
-</div>
+### ✎ [Sketch2Design](https://github.com/striver-24/sketch-to-design)
+*App to convert your raw ideas into professional app design.*
+**Coming Soon....**
 
 ---
 
