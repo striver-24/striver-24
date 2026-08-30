@@ -5,7 +5,7 @@
   **BTech Data Science & Engineering @ MIT Jaipur**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivyansh-singh)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deivyansh.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deivyansh.xyz/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.deivyansh@gmail.com)
   
   ### 🤖 Machine Learning | Agentic AI | SaaS Developer
@@ -67,7 +67,7 @@ I am a Data Science enthusiast specializing in **Agentic AI** and **LLM Orchestr
   <a href="https://x.com/singhdeivyansh">Twitter (X)</a> • <a href="https://medium.com/@deivyanshs">Medium</a> • <a href="https://instagram.com/singhdeivyansh">Instagram</a>
 </div>
 
-- 🌐 [Portfolio](https://deivyansh.vercel.app/)
+- 🌐 [Portfolio](https://deivyansh.xyz/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/deivyansh-singh)
 - 📸 [Instagram](https://www.instagram.com/singhdeivyansh)
 
