@@ -60,6 +60,9 @@ I am a Data Science enthusiast specializing in **Agentic AI** and **LLM Orchestr
 *App to convert your raw ideas into professional app design.*
 **Coming Soon....**
 
+### 💡 [LitRoute](https://github.com/striver-24/LitRoute)
+*Safe night navigation web app prioritizing well-lit roads, open shops, PCRs, and instant SOS alerts.*
+**Coming Soon....**
 ---
 
 <div align="center">
