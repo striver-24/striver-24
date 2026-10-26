@@ -17,8 +17,8 @@
 ## 🧠 About Me
 I am a Data Science enthusiast specializing in **Agentic AI** and **LLM Orchestration**. My focus is on bridging the gap between raw machine learning models and scalable, production-ready SaaS solutions.
 
-- 🏢 **Previous Internships:** IOCL, Panacea Infosec, & CareerSimplified.
-- 🛠️ **Current Focus:** Building autonomous software agents and Mental Health Tech.
+- 🏢 **Previous Internships:** IOCL, Panacea Infosec, CareerSimplified & Blinknext.
+- 🛠️ **Current Focus:** Building autonomous software agents and AI Automation Pipelines.
 - 🌱 **Passionate about:** Open Source contribution and streamlining workflows with AI.
 
 ---
@@ -54,7 +54,7 @@ I am a Data Science enthusiast specializing in **Agentic AI** and **LLM Orchestr
 
 ---
 
-## 📊 Upcoming Projects
+## 📊 Ongoing Projects
 
 ### ✎ [Sketch2Design](https://github.com/striver-24/sketch-to-design)
 *App to convert your raw ideas into professional app design.*
